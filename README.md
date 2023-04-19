@@ -31,7 +31,7 @@ A screen will appear on your web browser containing the application. Review the 
 Press the send transaction button to generate the transaction hash and send the transaction to the Ganache blockchain. Review the transaction on the Ganache blockchain.
 
 The balance of your account will update after the transaction is complete
-![The first address contains a balance of 99.80 ETH](Images/address_balance.PNGSVC_Returns.PNG)
+![The first address contains a balance of 99.80 ETH](Images/address_balance.PNG)
 
 The transaction will be recorded under the transactions tab, noting the from and to addresses, value, and gas price of the transaction.
 
